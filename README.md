@@ -1,2 +1,0 @@
-# trenajati.github.io
-fonts/
